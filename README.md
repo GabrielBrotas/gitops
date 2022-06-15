@@ -1,4 +1,5 @@
-
+## Project
+    This project goal is to create a nice repository environment
 ## Process
 - Execute tests
 - Linter
@@ -30,5 +31,3 @@ Settings -> Branches -> Branch protection rules -> Add rule
 
 Add Rule
 - add the same rules to the develop branch
-
-# update readme
