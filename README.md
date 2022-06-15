@@ -30,3 +30,5 @@ Settings -> Branches -> Branch protection rules -> Add rule
 
 Add Rule
 - add the same rules to the develop branch
+
+# update readme
