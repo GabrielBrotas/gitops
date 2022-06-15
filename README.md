@@ -31,3 +31,5 @@ Settings -> Branches -> Branch protection rules -> Add rule
 
 Add Rule
 - add the same rules to the develop branch
+
+Obs. If you change the pipeline name you have to update the rules again.
