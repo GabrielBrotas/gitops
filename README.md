@@ -30,3 +30,4 @@ Settings -> Branches -> Branch protection rules
 
 Add Rule
 - add the same rules to the develop branch# gitops
+# gitops
